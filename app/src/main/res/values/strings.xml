@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">Weather details</string>
+    <string name="weather_detail">Hello world!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preffred_location">Set preferred location</string>
+    <string name="preffered_location_key">Location</string>
+    <string name="preffered_location_value">Boston</string>
+    <string name="preffered_temp_summary">display in celsius or fahreinheit</string>
+    <string name="preffered_temp_names">Select temperature Unit</string>
+    <string name="preffered_temperature_key">temperature</string>
+
+    <string-array name="temperature_values">
+        <item name="celcius">celsius</item>
+        <item name="fahreinheit">fahreinheit</item>
+    </string-array>
+
+    <string-array name="temperature_selection">
+        <item name="celcius">Celsius</item>
+        <item name="fahreinheit">Fahreinheit</item>
+    </string-array>
+
+</resources>
